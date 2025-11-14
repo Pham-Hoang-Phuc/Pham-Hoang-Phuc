@@ -1,5 +1,5 @@
 # Hi, I'm Pham Hoang Phuc
-Welcome to my profile! I am currently an AI major student and I am interested in Data Science and AI Engineering. I love to explore and learn new things.
+Welcome to my profile! I'm an Artificial Intelligence (AI) major student and deeply interested in Data Science and AI Engineering. I love to explore and learn new things.
 
 ## Languages and Tools
 <!-- Skill icons provided by skill-icons. Full icon list and names:
