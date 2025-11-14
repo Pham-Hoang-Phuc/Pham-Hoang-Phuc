@@ -4,7 +4,7 @@ Welcome to my profile! I'm an Artificial Intelligence (AI) major student and dee
 ## Languages and Tools
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,vscode,pycharm,opencv&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,cpp,vscode,pycharm,opencv&theme=light)](https://skillicons.dev)
 
 **Also familiar with**: SQL Server, pandas, seaborn, matplotlib, sklearn, pytorch, basic ML/DL workflows.
 
