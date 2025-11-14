@@ -9,11 +9,11 @@ Welcome to my profile! I am currently an AI major student and I am interested in
 **Also familiar with**: SQL Server, pandas, seaborn, matplotlib, sklearn, pytorch, basic ML/DL workflows.
 
 
-## Links
+## Contact me
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- 
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
+- [**Contact**](mailto:maximus@nextwork.org) -->
 
 <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ho%C3%A0ng-ph%C3%BAc-872121370/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
