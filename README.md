@@ -1,4 +1,4 @@
-# Hi, I'm Pham-Hoang-Phuc</h1>
+# Hi, I'm Pham Hoang Phuc
 Welcome to my profile! I am currently an AI major student and I am interested in Data Science and AI Engineering. I love to explore and learn new things.
 
 ## Languages and Tools
