@@ -1,68 +1,33 @@
-<h1 align="left">Hi, I'm Pham-Hoang-Phuc</h1>
-I'm currently a student studying AI and Data Science with the long-term goal of becoming an expert in my field. . This GitHub is where I learn, experiment, and build the foundation for my future as a Data Scientist.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ho%C3%A0ng-ph%C3%BAc-872121370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ph%e1%ba%a1m-ho%c3%a0ng-ph%c3%bac-872121370/" height="30" width="40" /></a>
-</p>
+# Hi, I'm Pham-Hoang-Phuc</h1>
+Welcome to my profile! I am currently an AI major student and I am interested in Data Science and AI Engineering. I love to explore and learn new things.
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,vscode,pycharm,opencv&theme=light)](https://skillicons.dev)
 
-<p align="left">
+**Also familiar with**: SQL Server, pandas, seaborn, matplotlib, sklearn, pytorch, basic ML/DL workflows.
 
-  <!-- Python -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" width="50" />
-  </a>
 
-  <!-- C++ -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-  </a>
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Contact**](mailto:maximus@nextwork.org)
 
-  <!-- SQL Server (no skillicons) -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" />
-  </a>
+<a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ho%C3%A0ng-ph%C3%BAc-872121370/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
-  <!-- pandas (no skillicons) -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
-  </a>
+---
 
-  <!-- seaborn (no skillicons) -->
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" />
-  </a>
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Pham-Hoang-Phuc&show_icons=true&theme=gruvbox)
 
-  <!-- scikit-learn -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sklearn" width="50" />
-  </a>
-
-  <!-- OpenCV -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=opencv" width="50" />
-  </a>
-
-  <!-- PyTorch -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="50" />
-  </a>
-
-  <!-- Git -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="50" />
-  </a>
-
-  <!-- VSCode -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" />
-  </a>
-
-  <!-- PyCharm -->
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pycharm" width="50" />
-  </a>
-
-</p>
-
+---
