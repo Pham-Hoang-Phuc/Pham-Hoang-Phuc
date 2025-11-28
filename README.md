@@ -29,6 +29,6 @@ Welcome to my profile! I'm an Artificial Intelligence (AI) major student and dee
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Pham-Hoang-Phuc&show_icons=true&theme=gruvbox)
+![Phuc's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pham-Hoang-Phuc&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
 ---
