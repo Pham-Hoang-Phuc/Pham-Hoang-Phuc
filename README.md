@@ -22,6 +22,7 @@ Welcome to my profile! I'm an Artificial Intelligence (AI) major student and dee
 
 ---
 -->
+**Contact me:** [LinkedIn](https://www.linkedin.com/in/phạm-hoàng-phúc-872121370) | [Email](mailto:pham.phuc.david@gmail.com)
 ## Stats
 <!-- Stats card by anuraghazra/github-readme-stats
      Customization guide:
