@@ -4,24 +4,24 @@ Welcome to my profile! I'm an Artificial Intelligence (AI) major student and dee
 ## Languages and Tools
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,cpp,vscode,pycharm,opencv&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,python,cpp,opencv,sqlite,pytorch,fastapi,redis,linux&theme=light)](https://skillicons.dev)
 
-**Also familiar with**: SQL Server, pandas, seaborn, matplotlib, sklearn, pytorch, basic ML/DL workflows.
+**Also familiar with**: ML/DL workflows, LLM, VLM, RAG, API, DVC, YOLO, MLflow, langchain, pandas, numpy, matplotlib.
 
 
-## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+<!--## Links
+ Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- 
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org) -->
-<!-- [Portfolio](https://pham-hoang-phuc.github.io/pham_hoang_phuc.github.io/)  -->
+<!-- [Portfolio](https://pham-hoang-phuc.github.io/pham_hoang_phuc.github.io/)  
 
 <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ho%C3%A0ng-ph%C3%BAc-872121370/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
 ---
-
+-->
 ## Stats
 <!-- Stats card by anuraghazra/github-readme-stats
      Customization guide:
