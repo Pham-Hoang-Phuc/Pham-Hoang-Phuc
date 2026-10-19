@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:020617,50:1e40af,100:06b6d4&text=Pham%20Hoang%20Phuc&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=AI%20Engineer%20Intern%20%7C%20Computer%20Vision%20%7C%20AI%20Agents%20%26%20Apps&descColor=bfdbfe&descSize=17&descAlignY=64&animation=fadeIn" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&height=190&color=0:020617,50:1e40af,100:06b6d4&text=Pham%20Hoang%20Phuc&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=AI%20Engineer%20Intern%20%7C%20Computer%20Vision%20%7C%20AI%20Agents%20%7C%20Mobile%20Apps&descColor=bfdbfe&descSize=17&descAlignY=64&animation=fadeIn"
+  width="100%"
+/>
 
 <br/>
 
@@ -17,7 +20,9 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+AI+systems%2C+agents%2C+and+applications.;Always+learning+and+building+new+things." />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile%21;Building+Computer+Vision+and+AI+Agent+projects;Developing+mobile+apps+with+Flutter+and+Dart;Exploring+RAG%2C+MCP%2C+LLM+Automation+and+AI+Engineering."
+/>
 
 </div>
 
